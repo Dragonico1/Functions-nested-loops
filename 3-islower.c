@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include <stdio.h>
 /**
- * _putchar - esta funcion recibe un caracter y retorna un entero
+ * _islower - esta funcion retorna un 1 si el caracter recivido es minuscula y un 0 si es mayuscula
  * @character
  * return int
 */

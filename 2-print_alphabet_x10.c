@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet - esta funcion imprime la palabra juan
+ * print_alphabet_x10 - esta funcion imprime el alfabeto de la a la z en minusculas 10 veses
  * @ void
  * return nothing
 */

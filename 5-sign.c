@@ -1,5 +1,10 @@
 #include <unistd.h>
 #include "main.h"
+/**
+ * print_sign - esta funcion retorna un 1 si el entero es mayor a 0, 0 si es zero y -1 si es menor a 0
+ * @int
+ * return int
+*/
 int print_sign(int n)
 {
     if (n > 0) {

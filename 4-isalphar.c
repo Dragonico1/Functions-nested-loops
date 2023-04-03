@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * _putchar - esta funcion recibe un caracter y retorna un entero
+ * _isalphar - esta funcion retorna un 1 si el caracter recivido es minuscula o mayuscula y un 0 en cso contrario
  * @character
  * return int
 */
